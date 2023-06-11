@@ -501,7 +501,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             <br/>
             <i class="fa-brands fa-creative-commons"></i>
             <a
-              href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh"
+              href="/copyright/"
               rel="license">
               CC BY-SA 4.0
             </a>
