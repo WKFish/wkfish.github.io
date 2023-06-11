@@ -12,3 +12,17 @@ title: 关于
 <small class="post-list-date-in-index">{{ post.date | date_to_string }}</small><a  href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"> {{ post.title }}</a>
 </li>
 {% endfor %}
+
+**联系我**
+  <a href="mailto:imwkfish@outlook.com>
+    <i class="fa-solid fa-envelope"></i>
+  </a>
+  <a href="https://github.com/WKFish">
+    <i class="fa-brands fa-github"></i>
+  </a>
+  <a href="https://keybase.io/wkfish">
+    <i class="fa-brands fa-keybase"></i>
+  </a>
+  <a href="https://space.bilibili.com/15583933">
+    <i class="fa-brands fa-bilibili"></i>
+  <br/>
