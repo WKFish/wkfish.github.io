@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/wkfish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wkfish.github.io
+  * I am wkfish (https://keybase.io/wkfish) on keybase.
+  * I have a public key ASC3OgxD5BczwZtqb_rMhvaocY9rpdjX_QUxV5eS4TL6Iwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012061932cf5197f13e13b5fd45889f802aae8fd7b9a83474c00be0a85c7536af4d20a",
+      "host": "keybase.io",
+      "kid": "0120b73a0c43e41733c19b6a6ffacc86f6a8718f6ba5d8d7fd0531579792e132fa230a",
+      "uid": "f9dd456294b734ec8310e2c248604b19",
+      "username": "wkfish"
+    },
+    "merkle_root": {
+      "ctime": 1686455954,
+      "hash": "a2355f6dc667c2eae31a8c8032dd08945b234cb15fbe391227532b7b5e7560e6b4f7dac2ee31a1456faa75247d2866b1414a6f48c5e4a51b582bd8ec5d5c29ff",
+      "hash_meta": "6d07431518bc86c0d2b926d7b16963bab2f54eb5bddf763c81f90adc7bf70016",
+      "seqno": 24554093
+    },
+    "service": {
+      "entropy": "RfDS1P/Cz/oa2RHHoCDzemy/",
+      "hostname": "wkfish.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1686456027,
+  "expire_in": 504576000,
+  "prev": "b073a0d0923b4cb179302a24b01714068b29cbd9ab6cf2060f52a97f7895682d",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgtzoMQ+QXM8Gbam/6zIb2qHGPa6XY1/0FMVeXkuEy+iMKp3BheWxvYWTESpcCGcQgsHOg0JI7TLF5MCoksBcUBospy9mrbPIGD1Kpf3iVaC3EILeQTLUf7EiWklHLyrQw60EgBxRs9ezDe+H9Nk6wrLCmAgHCo3NpZ8RA42lrfBv2+vQafdEMh1EnxbsA7d0I09U99JvilIWAsem/UBolgxT7hWvnGDzxPfm2Frf3uJVhG1TziKZBu73/AKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMQ+Vh5ax5dSP5wInWDci6Cm1hHC7ZYLFrGF8kIe2y/ho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wkfish
+
+==================================================================
