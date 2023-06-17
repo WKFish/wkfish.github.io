@@ -1,5 +1,6 @@
 ---
 title: 转载一篇旷世奇文
+tags: 民科
 ---
 
 编者（即博主 WKFish）按：本文整理自 [萌娘百科用户 JackBlock 的补档](https://zh.moegirl.org.cn/index.php?diff=3977526) 与 [知乎专栏](https://zhuanlan.zhihu.com/p/401673287)。
